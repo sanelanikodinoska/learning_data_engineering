@@ -1,2 +1,2 @@
-# data_engineering_bootcamp
+# learning_repo
 Learning repo for DataTalks Data Engineering Bootcamp 
